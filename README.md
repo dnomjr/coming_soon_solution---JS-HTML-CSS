@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github link](https://github.com/dnomjr/coming_soon_solution---JS-HTML-CSS.git)
-- Live Site URL: [Base Apparel Solution]()
+- Live Site URL: [Base Apparel Solution](https://comming-soon-solution.netlify.app/)
 
 ### Built with
 
