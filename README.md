@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link](https://your-solution-url.com)
-- Live Site URL: [Base Apparel Solution](https://your-live-site-url.com)
+- Solution URL: [Github link](https://github.com/dnomjr/coming_soon_solution---JS-HTML-CSS.git)
+- Live Site URL: [Base Apparel Solution]()
 
 ### Built with
 
